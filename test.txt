@@ -1,0 +1,6 @@
+S.NO       URL                                                   TEST DATE       TEST TIME                    DESCRIPTION   
+1         https://sourashtracollegeforwomen.com/                12/06/2024       12:45PM                        Passed
+
+2         https://www.ugc.gov.in/                               12/06/2024       12:45PM                        Passed
+
+3         https://annamalaiuniversity.ac.in/index.php            12/06/2024       12:45PM                        Passed
